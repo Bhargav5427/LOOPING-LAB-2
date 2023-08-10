@@ -2,7 +2,7 @@
 
 main()
 {
-	int i=1,n,fact=1;
+	int i=1,n,multi=1;
 	
 	printf("Enter number =\n\n");
 	scanf("%d",&n);
